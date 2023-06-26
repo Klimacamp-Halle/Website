@@ -1,0 +1,32 @@
+# The URL the site will be built for
+base_url = "https://klimacmap-halle.de"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+theme ="sam"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+# Put all your custom variables here
+
+sam_menu = [
+    { text = "Programm", link = "/programm" },
+    { text = "Anfahrt", link = "/anfahrt" },
+    { text = "Kontakt", link = "/kontakt" }
+]
+
+# Disable menu at the bottom
+sam_bottom_menu = false
+# Disable word count and reading time
+show_word_count = false
+show_reading_time = false
+
+home = "Home"
