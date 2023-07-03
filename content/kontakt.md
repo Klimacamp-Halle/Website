@@ -2,4 +2,4 @@
 title = "Kontakt"
 +++
 
-Wir sind erreichbar per [e-mail](mailto:info@klimacamp-halle.org)
+Wir sind erreichbar per [info@klimacamp-halle.org](mailto:info@klimacamp-halle.org)
