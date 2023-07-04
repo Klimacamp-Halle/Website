@@ -20,13 +20,19 @@ highlight_code = false
 sam_menu = [
     { text = "Programm", link = "/programm" },
     { text = "Anfahrt", link = "/anfahrt" },
-    { text = "Kontakt", link = "/kontakt" }
+    { text = "Kontakt", link = "/kontakt" },
+    { text = "English version", link = "/english" }
 ]
 
 # Disable menu at the bottom
 sam_bottom_menu = false
+
 # Disable word count and reading time
 show_word_count = false
 show_reading_time = false
 
 home = "Home"
+
+[languages.en]
+
+
