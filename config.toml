@@ -11,6 +11,11 @@ build_search_index = false
 
 theme ="sam"
 
+languages = [
+    { code = "en" },
+    { code = "pl" },
+]
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
@@ -39,5 +44,3 @@ sam_bottom_menu = false
 show_word_count = false
 show_reading_time = false
 
-[languages.en]
-[languages.pl]
