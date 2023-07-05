@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://klimacmap-halle.org"
+base_url = "https://klimacamp-halle.org"
 
 default_language = "de"
 
