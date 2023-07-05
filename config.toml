@@ -1,11 +1,13 @@
 # The URL the site will be built for
 base_url = "https://klimacmap-halle.org"
 
+default_language = "de"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
+build_search_index = false
 
 theme ="sam"
 
@@ -21,7 +23,13 @@ sam_menu = [
     { text = "Programm", link = "/programm" },
     { text = "Anfahrt", link = "/anfahrt" },
     { text = "Kontakt", link = "/kontakt" },
-    { text = "English version", link = "/english" }
+]
+
+#hackish way to add another menu for english site
+sam_menu_en = [
+    { text = "Program", link = "/en/programm" },
+    { text = "Journey", link = "/en/anfahrt" },
+    { text = "Contact", link = "/en/kontakt" },
 ]
 
 # Disable menu at the bottom
@@ -31,8 +39,5 @@ sam_bottom_menu = false
 show_word_count = false
 show_reading_time = false
 
-home = "Home"
-
 [languages.en]
-
-
+[languages.pl]
