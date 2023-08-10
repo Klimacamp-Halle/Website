@@ -19,6 +19,7 @@ highlight_code = false
 [extra]
 # Put all your custom variables here
 sam_menu = [
+    { text = "Aufruf", link = "/aufruf" },
     { text = "Programm", link = "/programm" },
     { text = "Anfahrt", link = "/anfahrt" },
     { text = "Kontakt", link = "/kontakt" },
