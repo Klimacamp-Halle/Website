@@ -15,4 +15,5 @@ Lokale Ansatzpunkte gibt es genug. In und um Halle werden Natur - und der Mensch
 Auf dem Galgenberg wollen wir eine Woche lang Raum schaffen für Austausch, voneinander lernen, Spaß, und Dinge, die sich noch niemand vorstellen kann, weil sie erst gemeinsam entstehen. Der Deal: Wir stellen die Infrastruktur und die Gelegenheit, ihr den Content. Dieser kann jegliche Form und Größe annehmen - Skillshares, Vorträge, Diskussionen, Installationen, Performance  Außerdem wollen wir auch Halle-externe Redner*innen einladen, deren Pespektiven wir spannend für unsere Kontexte finden. Wenn ihr dafür ebenfalls Ideen habt, sagt gern Bescheid. Wenn ihr mit uns im Austausch bleibt (per Mail (klimaportal@systemli.org) oder gern persönlich (Plenum am Freitag 18 Uhr oder Anfrage per Mail), können wir gemeinsam schauen, was sich wie wo realisieren lässt.<br />
 <br>
 Wir freuen uns über eure zeitnahe Rückmeldung,<br />
+<br>
 euer Orga-Team Klimacamp 2023<br />

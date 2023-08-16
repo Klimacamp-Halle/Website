@@ -9,7 +9,7 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
-theme ="sam"
+theme ="zola-bearblog"
 
 [markdown]
 # Whether to do syntax highlighting
@@ -18,24 +18,21 @@ highlight_code = false
 
 [extra]
 # Put all your custom variables here
-sam_menu = [
-    { text = "Aufruf", link = "/aufruf" },
-    { text = "Programm", link = "/programm" },
-    { text = "Anfahrt", link = "/anfahrt" },
-    { text = "Kontakt", link = "/kontakt" },
-]
-# Disable menu at the bottom
-sam_bottom_menu = false
+date_format="%d %b, %Y"
 
-# Disable word count and reading time
-show_word_count = false
-show_reading_time = false
+[[extra.main_menu]]
+name = "Programm"
+url = "@/programm.md"
 
-# hackish way to add a second landing page in english
-sam_menu_en = [
-   { text = "Program", link = "/en/programm" },
-   { text = "Journey", link = "/en/anfahrt" },
-   { text = "Contact", link = "/en/kontakt" },
-]
+[[extra.main_menu]]
+name = "Wir über uns"
+url = "@/wir.md"
 
-[languages.en]
+[[extra.main_menu]]
+name = "Anfahrt"
+url = "@/anfahrt.md"
+
+[[extra.main_menu]]
+name = "Kontakt"
+url = "@/kontakt.md"
+
