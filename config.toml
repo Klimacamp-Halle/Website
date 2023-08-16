@@ -20,6 +20,8 @@ highlight_code = false
 # Put all your custom variables here
 date_format="%d %b, %Y"
 
+hide_made_with_line = true
+
 [[extra.main_menu]]
 name = "Programm"
 url = "@/programm.md"
@@ -35,4 +37,6 @@ url = "@/anfahrt.md"
 [[extra.main_menu]]
 name = "Kontakt"
 url = "@/kontakt.md"
+
+
 
