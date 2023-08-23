@@ -6,8 +6,4 @@ Das Klimacamp findet vom 11.-17. September in der alten Stadtgaertnerei statt. A
 
 Hier das bis jetzt vorlaeufige Programm:
 
-{{ resize_image(path="images/programm_1.png", width=5000, height=5000, op ="fit") }}
-<br>
-{{ resize_image(path="images/programm_2.png", width=5000, height=5000, op ="fit") }}
-<br>
-{{ resize_image(path="images/programm_3.png", width=5000, height=5000, op ="fit") }}
+{{ resize_image(path="images/programm 22 08.png", width=5000, height=5000, op ="fit") }}
