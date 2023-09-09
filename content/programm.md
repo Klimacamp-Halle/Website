@@ -1,3 +1,7 @@
++++
+title = "Programm"
++++
+
 **PROGRAMMBESCHREIBUNG**
 
 Alle Programmpunkte unter Vorbehalt! Die genauen Veranstaltungsorte erfahrt ihr vor Ort an der Informationsstelle, kommt deswegen gern ein wenig vor Beginn. Weitere Programmpunkte entstehen flexibel aus dem Camp-Leben selbst, dafür lohnt sich immer ein Blick auf das Programm-Board auf dem Camp-Gelände. Wenn du noch Ideen hast, die hier fehlen, komm vorbei, und wir schauen, wie sie klappen können. Bei Fragen & Ideen zum Programm, meldet euch gern unter [info@klimacamp-halle.org](mailto:info@klimacamp-halle.org). 
