@@ -2,7 +2,7 @@
 title = "Über uns"
 +++
 
-Wir haben uns lose aus dem Klimacamp 2022 in Gimmritz bei Halle zusammengefunden. Wir kommen aus verschiedenen Gruppen mit ähnlichen Beweggründen. Manche waren bei Ende Gelände oder Extinction Rebellion, manche kommen aus der Kirche und der Friedenspolitik, andere sind einfach ganz neu, weil sie das Thema wichtig finden, zu uns gekommen. Wir sind überwiegend aus Halle und drumherum und zugleich Teil der globalen Bewegung.  
+Wir haben uns lose aus dem Klimacamp 2022 in Gimritz bei Halle zusammengefunden. Wir kommen aus verschiedenen Gruppen mit ähnlichen Beweggründen. Manche waren bei Ende Gelände oder Extinction Rebellion, manche kommen aus der Kirche und der Friedenspolitik, andere sind einfach ganz neu, weil sie das Thema wichtig finden, zu uns gekommen. Wir sind überwiegend aus Halle und drumherum und zugleich Teil der globalen Bewegung.  
 
 **Unsere Ziele**  
 

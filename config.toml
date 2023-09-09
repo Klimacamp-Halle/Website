@@ -27,6 +27,10 @@ name = "Programm"
 url = "@/programm.md"
 
 [[extra.main_menu]]
+name = "Infos zum Camping"
+url = "@/camping.md"
+
+[[extra.main_menu]]
 name = "Wir über uns"
 url = "@/wir.md"
 
@@ -37,6 +41,3 @@ url = "@/anfahrt.md"
 [[extra.main_menu]]
 name = "Kontakt"
 url = "@/kontakt.md"
-
-
-
