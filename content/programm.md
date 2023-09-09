@@ -8,7 +8,7 @@ Alle Programmpunkte unter Vorbehalt! Die genauen Veranstaltungsorte erfahrt ihr 
 
 Wir geben unser Bestes, damit Änderungen und generelle Infos möglichst auch auf unserem Telegram-Channel zeitnah bekannt gegeben werden: [https://t.me/klimacamphalle](https://t.me/klimacamphalle).
 
-{{ resize_image(path="images/programm 09 09.png", width=5000, height=5000, op ="fit") }}
+{{ resize_image(path="images/programm-09.png", width=5000, height=5000, op ="fit") }}
 
 **MONTAG**
 
